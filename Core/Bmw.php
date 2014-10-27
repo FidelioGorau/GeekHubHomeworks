@@ -2,7 +2,6 @@
 
 namespace Core;
 
-
 class Bmw extends Cars {
 
     static function carBrand (){
